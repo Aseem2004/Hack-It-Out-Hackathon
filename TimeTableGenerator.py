@@ -12,3 +12,17 @@ def one():
     global password
     name=StringVar()
     password=StringVar()
+   
+    def time():
+        global TT
+        TT=Tk()
+        TT.title("Time Table Generator")
+        global thsub
+        global ansub
+        global labsub
+        thsub=IntVar()
+        ansub=IntVar()
+        labsub=IntVar()
+        TT.geometry('950x700')
+        TT.minsize(950,700)
+        TT.maxsize(950,700)
