@@ -5,9 +5,9 @@ def one():
  
     main=Tk()
     main.title("Time Table Generator")
-    main.geometry('800x500')
-    main.minsize(800,500)
-    main.maxsize(800,500)
+    main.geometry('900x600')
+    main.minsize(900,600)
+    main.maxsize(900,600)
     global name
     global password
     name=StringVar()
