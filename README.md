@@ -1,1 +1,1 @@
-# Hack-It-Out
+# Hack-It-Out Hackathon
